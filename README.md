@@ -16,7 +16,7 @@ Symbols
 
 The application uses Formik for form handling and Yup for validation.
 
-📱 Features
+📱 #Features
 
 Generate secure random passwords
 
