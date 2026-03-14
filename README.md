@@ -57,10 +57,6 @@ password-generator
 └── README.md
 ⚙️ Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/password-generator.git
-
 Navigate to the project directory:
 
 cd password-generator
